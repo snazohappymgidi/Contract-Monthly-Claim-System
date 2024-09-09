@@ -15,7 +15,7 @@
         <!-- TabControl for different user roles -->
         <TabControl HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,60,10,10" Background="#ffffff">
 
-            <!-- Lecturer View -->
+            <!-- Lecturer View --> 
             <TabItem Header="Lecturer">
                 <Grid Margin="10" Background="#e8f5e9" >
                     <Grid.ColumnDefinitions>
